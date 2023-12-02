@@ -14,6 +14,8 @@ FocusFixer is a simple AutoHotKey script inspired by the Bionic® Reading techni
 
 ## How to Use
 
+First Download ![AHK][https://www.autohotkey.com/] and ![The latest version][https://github.com/TamasPeti/FocusFixerAHK/releases]
+
 1. Press `NumpadAdd` to apply the Bionic-inspired formatting to whatever you type in any markdown compatible app
    such as Discord, Reddit, etc. (It is the + key on the right side of your keyboard.) 
 2. The script will:
