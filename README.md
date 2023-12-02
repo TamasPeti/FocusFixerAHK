@@ -2,41 +2,60 @@
 
 ## Overview 📘
 
-FocusFixer is a simple AutoHotKey script inspired by the Bionic® Reading technique. It aims to enhance reading focus for individuals with ADHD by applying artificial fixation points to text.
+**Focu**sFixer **i**s **a** **si**mple **Auto**HotKey **sc**ript **insp**ired **b**y **t**he **Bio**nic® **Rea**ding **tech**nique. **I**t **ai**ms **t**o **enh**ance **rea**ding **fo**cus **f**or **indi**viduals **wi**th **AD**HD **b**y **appl**ying **arti**ficial **fixa**tion **po**ints **t**o **te**xt.
 
 ## Features ✅
 
-- Adds artificial fixation points to text based on word length 🛠️
-- Customizable bolding logic for different word lengths 👷‍♂️
-- Improves reading focus and attention 🤓
-- Is Free 🪙
-- Does not send images of your penguin automatically to your grandmother ❌
+**-** **Ad**ds **arti**ficial **fixa**tion **po**ints **t**o **te**xt **ba**sed **o**n **wo**rd **le**ngth **🛠**️
+
+- **Cust**omizable **bol**ding **lo**gic **f**or **diff**erent **wo**rd **len**gths **👷‍♂**️
+
+- **Impr**oves **rea**ding **fo**cus **a**nd **atte**ntion **🤓**
+
+- **I**s **Fr**ee **🪙**
+
+- **Do**es **n**ot **se**nd **im**ages **o**f **yo**ur **pen**guin **auto**matically **t**o **yo**ur **gran**dmother **❌**
+
 
 ## How to Use
 
-First, download [AutoHotKey](https://www.autohotkey.com/) and [the latest version of FocusFixer](https://github.com/TamasPeti/FocusFixerAHK/releases).
+**Fi**rst, **down**load **[Aut**oHotKey](https://www.autohotkey.com/) **a**nd **[t**he **la**test **ver**sion **o**f **Focu**sFixer](https://github.com/TamasPeti/FocusFixerAHK/releases).
 
-1. Press `NumpadAdd` to apply the Bionic-inspired formatting to whatever you type in any markdown compatible app
-   such as Discord, Reddit, etc. (It is the + key on the right side of your keyboard.) 
-2. The script will:
-   - Select all text (`Ctrl + A`) 🪝
-   - Copy the selected text (`Ctrl + C`) 🖨️
-   - Split the text into words ✂️
-   - Add artificial fixation points based on word length 🛠️
-   - Retype the modified text and press `Enter` ✅
+
+
+1. **Pr**ess `NumpadAdd` **t**o **ap**ply **t**he **Bion**ic-inspired **form**atting **t**o **what**ever **y**ou **ty**pe **i**n **a**ny **mark**down **comp**atible **ap**p
+
+**su**ch **a**s **Disc**ord, **Red**dit, **et**c. (It **i**s **t**he **+** **k**ey **o**n **t**he **ri**ght **si**de **o**f **yo**ur **keyb**oard.) 
+
+**2. **T**he **sc**ript **wil**l:
+
+**-** **Se**lect **a**ll **te**xt (`Ctrl + A`) **🪝**
+
+**-** **Co**py **t**he **sele**cted **te**xt (`Ctrl + C`) **🖨**️
+
+ **-** **Sp**lit **t**he **te**xt **in**to **wo**rds **✂️**
+
+ **-** **A**dd **arti**ficial **fixa**tion **po**ints **ba**sed **o**n **wo**rd **le**ngth **🛠**️
+
+ **-** **Re**type **t**he **modi**fied **te**xt **a**nd **pr**ess `Enter` **✅**
+
+
+
+
 
 ## Customization
 
-Modify the script to adjust the bolding logic or customize the behavior according to your preferences.
+**Mo**dify **t**he **sc**ript **t**o **ad**just **t**he **bol**ding **lo**gic **o**r **cust**omize **t**he **beha**vior **acco**rding **t**o **yo**ur **pref**erences.
 
 ## Disclaimer ⚠️
 
-This project is not affiliated with Bionic®. It is an independent, open-source project inspired by the Bionic Reading technique. Please review and respect Bionic®'s terms of service.
+**Th**is **pro**ject **i**s **n**ot **affi**liated **wi**th **Bion**ic®. **I**t **i**s **a**n **inde**pendent, **open**-source **pro**ject **insp**ired **b**y **t**he **Bi**onic **Rea**ding **tech**nique. **Pl**ease **re**view **a**nd **res**pect **Bion**ic®'s **te**rms **o**f **serv**ice.
+
 
 ## License 📜
 
-This project is licensed under the [GPL 3.0 License](LICENSE.md).
+**Th**is **pro**ject **i**s **lice**nsed **un**der **t**he [GPL 3.0 License](LICENSE.md).
 
 ---
 
-Feel free to contribute, report issues, or suggest improvements! 😊
+**Fe**el **fr**ee **t**o **cont**ribute, **re**port **iss**ues, **o**r **sug**gest **impr**ovements!
