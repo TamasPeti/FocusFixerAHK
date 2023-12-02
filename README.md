@@ -19,7 +19,7 @@
 
 ## How to Use
 
-**Fi**rst, **down**load **[AutoHotKey](https://www.autohotkey.com/) **a**nd **[the latest version of FocusFixer](https://github.com/TamasPeti/FocusFixerAHK/releases).
+**Fi**rst, **down**load [AutoHotKey](https://www.autohotkey.com/) **a**nd [the latest version of FocusFixer](https://github.com/TamasPeti/FocusFixerAHK/releases).
 
 
 
